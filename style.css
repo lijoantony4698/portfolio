@@ -86,7 +86,6 @@ a:hover {
 }
 ul.address {
 	margin-top: 1.5em;
-	width: 40em;
 	border-top: 2px dotted orange;
 	padding-top: 0.5em;
 }
@@ -2013,12 +2012,6 @@ body {
 }
 .comp-main {
 	font-size: 1rem !important;
-}
-.thim-click-to-bottom-out {
-	position: absolute !important;
-	bottom: 20%;
-	left: 50%;
-	transform: translate(-50%, -50%);
 }
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
