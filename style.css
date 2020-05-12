@@ -1990,12 +1990,6 @@ body {
 .comp-main {
 	font-size: 1rem !important;
 }
-
-	
-
-
-	
-
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #404040;
@@ -2021,7 +2015,6 @@ body {
 .text {
 	background: #29292b;
 	color: white;
-	padding: 20px;
 	min-height: 200px;
 }
 .text p {
