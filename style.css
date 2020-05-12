@@ -1991,7 +1991,7 @@ body {
 	font-size: 1rem !important;
 }
 .thim-click-to-bottom-out {
-	position: absolute !important;
+	
 	bottom: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
